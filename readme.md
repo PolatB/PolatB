@@ -1,18 +1,28 @@
 <h1 align="center">Hi there👋!</h1>
 
-<h3 align="center">A passionate Self-taught Front-end developer</h3>
+<h3>Who I am?</h3>
 
-- 🔭 I’m currently working on **React**
+- A passionate Self-taught Front-end developer
 
-- 🌱 I’m currently learning **React**
+- A former teacher who taught hundreds of students
 
-- 👯 I’m looking to collaborate on **React**
+<h3>What I'm doing?</h3>
 
-- 💬 Ask me about **React, JavaScript, Css**
+- Writing mostly **React**
+  
+- Mostly active on **LinkenIn**
 
-- 📫 How to reach me **burakpolat4141@gmail.com**
+<h3>What are my skill sets?</h3>
 
-- ⚡ Fun fact **I love playing musical instruments.**
+- Programing: **JavaScript, Css, HTML**
+
+- Framework/Library: **React, Tailwind, Bootstrap**
+
+<h3>How to reach me?</h3>
+
+- **burakpolat4141@gmail.com**
+
+- **www.linkedin.com/in/burakpolat0**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
