@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Burak</h1>
+<h1 align="center">Hi there👋!</h1>
+
 <h3 align="center">A passionate Self-taught Front-end developer</h3>
 
 - 🔭 I’m currently working on **React**
