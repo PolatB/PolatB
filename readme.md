@@ -14,7 +14,7 @@
 
 <h3>What are my skill sets?</h3>
 
-- Programing: **JavaScript, Css, HTML**
+- Programing: **JavaScript, Css, HTML, Python**
 
 - Framework/Library: **React, Tailwind, Bootstrap**
 
